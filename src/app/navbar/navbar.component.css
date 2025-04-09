@@ -1,0 +1,28 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+.logo{
+    font-size: 35px;
+    padding-left: 100px;
+    color:  #FFBA31;
+}
+
+.links{
+    padding-right: 100px;
+}
+
+.nav-bar{
+    
+    background-color: #000000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-bar a {
+    margin: 15px ;
+    text-decoration: none;
+    color:  #FFBA31;
+    font-size:large;
+}
