@@ -1,19 +1,27 @@
-*{
-    background-color: rgb(0, 0, 0);
+/**{*/
+/*    background-color: rgb(0, 0, 0);*/
+/*}*/
+body{
+  background: black;
 }
-
 .info{
-    padding-top: 120px;
+  /*background-color: chartreuse;*/
+    padding-top: 100px;
     display: flex;
     justify-content: space-around;
     align-items: center;
+  flex-direction: row;
   }
 
 img{
+  /*background-color: brown;*/
     width: 480px;
     height: auto;
 }
+
+
 .admin{
+  /*background-color: cornflowerblue;*/
     display: flex;
     flex-direction:column;
     align-items: center;
@@ -21,7 +29,7 @@ img{
 }
 
 .admin p{
-    
+
     color:#ffffff ;
     font-size: xx-large;
     text-indent: 10px;
@@ -35,4 +43,35 @@ img{
 .linkedin{
     display: flex;
     flex-direction:column
+}
+
+.btn {
+    background-color: #FFBA31;
+    padding: 10px 15px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: large;
+}
+
+.btnn{
+
+    background-color: #FFBA31;
+    padding: 10px 15px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: large;
+}
+
+.button a {
+    background-color: #FFBA31;
+    text-decoration: none;
+    color: black;
+    font-size: x-large;
+}
+
+.button{
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  width: 100%;
 }
