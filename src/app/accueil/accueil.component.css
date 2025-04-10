@@ -5,7 +5,7 @@ body{
   background: black;
 }
 .info{
-  /*background-color: chartreuse;*/
+  background-color: chartreuse;
     padding-top: 100px;
     display: flex;
     justify-content: space-around;
@@ -14,14 +14,15 @@ body{
   }
 
 img{
-  /*background-color: brown;*/
-    width: 480px;
+  background-color: brown;
+    width: 490px;
     height: auto;
+  margin-bottom: 25px;
 }
 
 
 .admin{
-  /*background-color: cornflowerblue;*/
+  background-color: cornflowerblue;
     display: flex;
     flex-direction:column;
     align-items: center;

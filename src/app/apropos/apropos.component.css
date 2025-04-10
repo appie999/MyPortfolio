@@ -1,0 +1,24 @@
+body{
+  background-color: black;
+}
+
+.mee{
+  padding-top: 30px;
+  margin-left:15%;
+  color: white;
+  width: 70%;
+  font-size: x-large;
+  /*background-color: brown;*/
+}
+
+.about p {
+  padding-left: 40px;
+  color: white;
+  /*background-color: chartreuse;*/
+  font-size: large;
+  width: 40%;
+}
+
+.about h1{
+  color: #FFBA31;
+}
