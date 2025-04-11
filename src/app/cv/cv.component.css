@@ -1,0 +1,32 @@
+body {
+  background-color: #000;
+  color: #f8f9fa;
+}
+
+h1, h2, h3, h4 {
+  color: rgba(253, 185, 49, 1);
+}
+
+.card {
+  background-color: #121212;
+  border: 1px solid rgba(253, 185, 49, 0.2);
+}
+
+.list-group-item {
+  background-color: #1a1a1a;
+  color: #f8f9fa;
+  border-color: rgba(253, 185, 49, 0.1);
+}
+
+.down{
+  background-color: rgba(253, 185, 49, 1);
+  text-decoration: none;
+  font-size: x-large;
+  color: black;
+  font-family: "Arial Black";
+}
+
+.btn-down{
+  border-radius: 6px;
+  background-color: rgba(253, 185, 49, 1);;
+}
