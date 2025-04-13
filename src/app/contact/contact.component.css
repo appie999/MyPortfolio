@@ -68,14 +68,10 @@ body{
 .image1{
   width: auto;
   height: 480px;
-  /*background-color: blueviolet;*/
 }
-.image1 :hover{
-  filter: drop-shadow(1px 10px 15px rgba(253, 185, 49));
-}
+
 .contact{
   display: flex;
   justify-content: center;
   gap: 20px;
-  /*background-color: #77ed92;*/
 }
